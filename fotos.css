@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    background: white;
+}
+
+#mietDebay4Pcs{
+    width: 200px;
+    /* position: absolute; */
+}
+#mietDebay7Pcs{
+    width: 175px;
+    margin-left: 1px;
+    margin-top: 5px;
+    position: absolute;
+}
+#mietDebay1Pcs{
+    width: 210px;
+    margin-left: -0px;
+    margin-top: 230px;
+    position: absolute;
+}
+#mietDebay3Pcs{
+    width: 410px;
+    margin-left: -200px;
+    margin-top: 300px;
+    position: absolute;
+}
+#mietDebay2Pcs{
+    width: 410px;
+    margin-left: -200px;
+    margin-top: 572px;
+    position: absolute;
+}
+#mietDebay5Pcs{
+    width: 410px;
+    margin-left: -200px;
+    margin-top: 800px;
+    position: absolute;
+}
+#mietDebay8Pcs{
+    width: 410px;
+    margin-left: -200px;
+    margin-top: 1070px;
+    position: absolute;
+}
